@@ -23,3 +23,6 @@ def is_registered(domain):
 def main():
     domain = input("Enter a domain: ")
     print(is_registered(domain))
+    
+if __name__ == "__main__":
+    main()
