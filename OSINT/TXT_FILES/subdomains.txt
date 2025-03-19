@@ -41,6 +41,7 @@ dns
 office
 exchange
 apps
+sms
 download
 relay
 backup
@@ -48,3 +49,5 @@ svn
 crm
 cms
 ads
+ipv4
+ipv6
